@@ -1,5 +1,5 @@
 
-To use the automation scripts "automate_AALMv3.0_yearxtox", it would be best to use the version of the AALMv3.0 included in this repository, as it has the warning messages pre-removed from the workbook code which prevents automation. For best results, download this entire repository to a folder on your c:\ drive where you have read and write privileges. If necessary, enable Macros in for this folder (add to trusted locations) via the Options tab in Excel. 
+To use the automation scripts "automate_AALMv3.0_yearxtox", it would be best to use the version of the AALMv3.0 included in this repository, as it has the warning messages pre-removed from the workbook code which prevents automation. For best results, download this entire repository to a folder on your c:\ drive where you have read and write privileges. Unzip the AALM.zip folder which contains the model and exectuable fortran files. If necessary, enable Macros in for this folder (add to trusted locations) via the Options tab in Excel. 
 
 If you use the AALMv3.0 version from this repository there will be no need to follow the directions for changing the AALM VBA code.
 
